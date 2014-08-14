@@ -8,20 +8,22 @@ Macaw provides the same flexibility as your favorite image editor but also write
 
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/resume.png)
 
-Recruiters these aren't my real credentials. You can download my resume [here] (https://github.com/raynesandrew/Resume) - download the InDesign file if you want to use it for inspiration. This design was just a mock up, I now plan to hand code my resume from scratch and add it to my [personal site] (http://andrewraynes.com).
+Recruiters these aren't my real credentials. You can download my resume [here] (https://github.com/raynesandrew/Resume) - download the InDesign file if you wish to gain some inspiration. This theme was just a mock up, I now plan to hand code my resume from scratch and add it to my [personal site] (http://andrewraynes.com).
 
 **InputSpike**
 
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/InputSpike.png)
-
+Quick mock up for a client to win the project.
 
 **Photographers Portfolio**
 
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/Photographer.png)
+Quick mock up for a client to win the project.
 
 **Gamers Portfolio**
 
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/Gamer.png)
+Quick mock up for a client to win the project.
 
 
 Use these templates as you wish. If you want to add to the library raise an issue.
