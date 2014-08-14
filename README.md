@@ -4,6 +4,12 @@ Macaw provides the same flexibility as your favorite image editor but also write
 
 **Templates**
 
+**Resume**
+
+![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/resume.png)
+
+Recruiters these aren't my real credentials. You can download my resume [here] (https://github.com/raynesandrew/Resume) - download the InDesign file if you want to use it for inspiration. This design was just a mock up, I now plan to hand code my resume from scratch and add it to my [personal site] (http://andrewraynes.com).
+
 **InputSpike**
 
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/InputSpike.png)
