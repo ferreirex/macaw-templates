@@ -26,6 +26,13 @@ Quick mock up for a client to win the project.
 Quick mock up for a client to win the project.
 
 
-Use these templates as you wish. If you want to add to the library raise an issue.
+Use these templates as you wish. If you want to contribute to the library;
+
+* Fork it ( https://github.com/raynesandrew/Macaw-Templates/fork )
+* Create your feature branch (git checkout -b my-new-feature)
+* Commit your changes (git commit -am 'Add some feature')
+* Push to the branch (git push origin my-new-feature)
+* Create new Pull Request
+
 Follow me on Twitter for updates to this repo [@raynesandrew] (http://twitter.com/raynesandrew)
 
