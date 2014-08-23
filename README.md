@@ -9,28 +9,24 @@ Templates
 
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/resume.png)
 **Notes:** Simply download and run the Macaw file.
-
 **Created by:** [Andrew Raynes] (http://andrewraynes.com)
 
-**InputSpike**
+##InputSpike
 
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/InputSpike.png)
 **Notes:** Simply download and run the Macaw file.
-
 **Created by:** [Andrew Raynes] (http://andrewraynes.com)
 
-**Photographers Portfolio**
+##Photographers Portfolio
 
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/Photographer.png)
 **Notes:** Simply download and run the Macaw file.
-
 **Created by:** [Andrew Raynes] (http://andrewraynes.com)
 
-**Gamers Portfolio**
+##Gamers Portfolio
 
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/Gamer.png)
 **Notes:** HTML files only. Macaw file not included.
-
 **Created by:** [Andrew Raynes] (http://andrewraynes.com)
 
 Contribute
