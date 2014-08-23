@@ -5,7 +5,7 @@ Macaw provides the same flexibility as your favorite image editor but also write
 Templates
 =========
 
-**Resume**
+#Resume
 
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/resume.png)
 **Notes:** Simply download and run the Macaw file.
