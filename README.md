@@ -30,7 +30,7 @@ Contribute
 
 Use these templates as you wish. If you want to contribute to the library;
 
-* Fork it ( https://github.com/raynesandrew/Macaw-Templates/fork )
+* Fork it ( https://github.com/1raynes/Macaw-Templates/fork )
 * Create your feature branch (git checkout -b my-new-feature)
 * Commit your changes (git commit -am 'Add some feature')
 * Push to the branch (git push origin my-new-feature)
