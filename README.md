@@ -43,6 +43,7 @@ Useful Macaw Resources
 * [Font Awesome for Macaw] (https://dl.dropboxusercontent.com/u/2569529/macaw_examples/FontAwesome4/FontAwesome4/index.html)
 * [Łukasz Mazurek] (https://www.youtube.com/channel/UC2Df5vH58tGhXiPPsNRkJFg) - YouTube tutorials.
 * [Responsive Web Design With Macaw] (http://schonne.com/macaw/) - a FREE book.
+* [Macaw to Wordpress] (http://www.macawtowordpress.com) - Convert Macaw sites to Wordpress.
 
 LICENSE
 =======
